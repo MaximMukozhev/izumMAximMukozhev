@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+ <html>
+    <head>
+        <meta charset="UTF-8"> 
+        <link href="stail.css" rel="stylesheet">
+        <title>Мои награды</title>
+    </head>
+    <body>
+        <header>
+            <h1>Моё резюме</h1>
+            <div class="butt">
+                <nav> 
+                    <button> <a href="Главная.html">Информация обо мне</a> </button>
+                    <button> <a href="Мои награды.html">Мои награды</a> </button>
+                    <button> <a href="Контакты.html">Мои контакты</a> </button>
+                </nav>
+            </div>
+        </header>
+            <p class="avatar"><img  src="https://sun9-14.userapi.com/impg/OZ-TD8hRRD9upBufX7xwIvRxIIYyPWHA3984Wg/vY98wuYEnbk.jpg?size=581x1032&quality=95&sign=681c5064a4815dcd9fce003cb3dae91a&type=album"></p>
+            <p class="avatar"><img  src="https://sun9-30.userapi.com/impg/5HKX0J3Dxq-qbNbIfgiKT7D5UOQWbO3bz7p-5Q/QUYSObAXX2Q.jpg?size=581x1032&quality=95&sign=bf37fb4f750237ce22352726687a2427&type=album"></p>
+            <p class="avatar"><img  src="https://sun9-18.userapi.com/impg/3xzYC6DVJdpNlQypVf83OyyDBbAsy4zXxRlM0g/ov6eDRW4NOY.jpg?size=581x1032&quality=95&sign=644ada81dd707b13d72fb5c7b63f9ea1&type=album"></p>
+            <p class="avatar"><img  src="https://sun9-68.userapi.com/impg/OENRuK8gQxlh8Wi2gnLVEEoGkYxn6mX9aD7l9w/uUscVMUKIRg.jpg?size=581x1032&quality=95&sign=03bef9420dec5fe3f1844daa24312f87&type=album"></p>
+            <p class="avatar"><img  src="https://sun9-20.userapi.com/impg/zySiozpCAwA-2ImyLenmq9nAVsR3ytk5iq373Q/vextOXPfa3w.jpg?size=581x1032&quality=95&sign=872c0585162dd5a624b70ab904e81dd1&type=album"></p>
+            <p class="avatar"><img  src="https://sun9-39.userapi.com/impg/6pWnY8Y-Yy_D9W93iM0Qr93Yz7FuFZMMztmTuA/UxK-BsvxIJk.jpg?size=581x1032&quality=95&sign=94b6f9af31ce430d0d5c7dd696aab921&type=album"></p>
+            <p class="avatar"><img  src="https://sun9-71.userapi.com/impg/pLdqdLzWo2s1YdY8YD1rH-R3ybZE0rO0zffFkQ/606nvBVjCNE.jpg?size=581x1032&quality=95&sign=8e85761c6e3f57c23d04db7e40834efe&type=album"></p>
+        <footer >
+            <div class="butt">
+                <nav> 
+                    <button> <a href="Главная.html">Информация обо мне</a> </button>
+                    <button> <a href="Мои награды.html">Мои награды</a> </button>
+                    <button> <a href="Контакты.html">Мои контакты</a> </button>
+                </nav>
+            </div>
+        </footer>       
+    </body>
+</html>
