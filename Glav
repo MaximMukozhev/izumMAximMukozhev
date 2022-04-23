@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link href="stail.css" rel="stylesheet">
+        <title>Резюме</title>
+    </head>
+    <body>
+        <header>
+            <h1>Моё резюме</h1>
+            <div class="butt">
+                <nav> 
+                    <button href="Главная.html">Информация обо мне </button>
+                    <button> <a href="Мои награды.html">Мои награды</a> </button>
+                    <button> <a href="Контакты.html">Мои контакты</a> </button>
+                </nav>
+            </div>
+        </header>
+        <section>
+            <h1>Персональные данные</h1>
+            <p class="avatar"><img height="250" src="https://sun9-85.userapi.com/impg/Blq_BtLDzWQotFJwzsR-QtXRjIRFmGxMvg9TXQ/Sb0hkRRqzRA.jpg?size=810x1080&quality=95&sign=70e3d6f9d7d1027d67ff93d1c26196df&type=album"></p>
+            <dl>
+                <dt> <h2>ФИО</h2></dt>
+                    <dd><p> Мукожев Максим Алексеевич<p></dd>
+                <dt><h2>Место рождения<h2></dt>
+                    <dd><p>Кабардино-Кабалкарская республика гор.Нальчик<p></dd>
+            </dl>
+        </section>
+        <section>
+            <h1>Моё детство</h1>
+            <div class="texxt">
+                <pre>
+C детства активный. Любил узнавать новое. Очень легка концентрируюсь над выполнением задачи.
+В начальной школе принимал активнось в школьной деятельности.
+В классе 5-11 проявлял активность в школе. В тоже время обучался на хорошо-отлично.
+                </pre> 
+            </div>>  
+        </section>
+        <section>
+            <h1> Мои увлечения и лучшие качества</h1>
+            <pre class="texxt">
+Увлекаюсь просмотром разных сериалов, аниме. Но это в свободное время.
+Также занимаюсь легкой атлетикой, футболом, волейбол.
+Я выделю основные свои качество: трудолюбие, усидчивость, аккуратность, ответственность.
+            </pre>
+        </section>
+        <footer>
+            <div class="butt">
+                <nav> 
+                    <button> <a href="Главная.html">Информация обо мне</a> </button>
+                    <button> <a href="Мои награды.html">Мои награды</a> </button>
+                    <button> <a href="Контакты.html">Мои контакты</a> </button>
+                </nav>
+            </div>
+        </footer>       
+    </body>    
+</html>
