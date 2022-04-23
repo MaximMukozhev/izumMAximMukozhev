@@ -1,0 +1,50 @@
+body{
+    background:url(https://sun9-44.userapi.com/impg/AupxP7rNQeivF2K_ai78BpLCBclOnh0nswyDfg/wpOrF3PGIg4.jpg?size=1192x1190&quality=96&sign=81f94b7844e69cec29aa86914356fbd6&type=album) no-repeat ;
+    background-size: cover;
+} 
+
+h1{
+    color: #f75216;
+    text-align: center;
+    font-size: 40px;
+}
+
+button{
+    background-color: #f75216;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 40px;
+    width: 200px;
+}
+.butt{
+    text-align: center;
+}
+dt{
+    color:#f75216;
+    font-style: italic;
+    font-size: 15px;
+}
+p{
+    font-size: 20px;
+    color:cornflowerblue;
+}
+.texxt{
+    color:cornflowerblue;
+    font-size: 20px;
+    text-align: left;
+}
+.avatar{
+    text-align: center;
+}
+A:link,A:visited{
+    text-decoration: none;
+    color: black;
+}
+.nagrad{
+    text-align: center;
+    color: cornflowerblue;
+    font-size: 50px;
+}
+.vnim{
+    color: red;
+    text-align: center;
+}
