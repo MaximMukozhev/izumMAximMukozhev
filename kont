@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>Мои контакты</title>
+            <link href="stail.css" rel="stylesheet">
+        </head>
+        <body>
+            <header>
+                <h1>Моё резюме</h1>
+                <div class="butt">
+                    <nav> 
+                        <button href="Главная.html">Информация обо мне </button>
+                        <button> <a href="Мои награды.html">Мои награды</a> </button>
+                        <button> <a href="Контакты.html">Мои контакты</a> </button>
+                    </nav>
+                </div>
+            </header>
+            <div > 
+                <h1>Социальные сети</h1>
+                <div class="butt">
+                    <a href="https://vk.com/sin_of_lust0"> <img src="https://e7.pngegg.com/pngimages/122/199/png-clipart-computer-icons-vkontakte-vk-angle-text.png" height="100" ></a>
+                    <a href="https://www.instagram.com/maxim.mukozhev/"> <img src="https://avatars.mds.yandex.net/i?id=4b2d30e15d0d3a73df738a9a7be4083b-5843291-images-thumbs&n=13" height="100" ></a>
+                </div>
+                <h1>Электронные почты</h1>
+                <p>m.mykozhev07@gmail.com</p>
+                <h1>Номер телефона</h1>
+                <p  class="vnim" >звонки принимаются  c 12:00 до 16:00</p>
+                <p>+79604249253</p>
+                <p>+79889255950</p>
+            </div>
+            <footer >
+                <div class="butt">
+                    <nav> 
+                        <button> <a href="Главная.html">Информация обо мне</a> </button>
+                        <button> <a href="Мои награды.html">Мои награды</a> </button>
+                        <button> <a href="Контакты.html">Мои контакты</a> </button>
+                    </nav>
+                </div>
+            </footer>
+        </body>
+    </html>
